@@ -1,2 +1,5 @@
-
+table,th,td{
+	 width=100% border=1 cellspacing=5px;
+	
+}
 /* Your CSS Code here. */
